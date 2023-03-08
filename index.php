@@ -10,7 +10,7 @@
 <div>
   <div class="max-w-md mx-auto">
     <h2 class="text-center text-2xl font-extrabold text-gray-900">Enter Your Information student</h2>
-    <form class="mt-8" action="./generate-pdf.php" method="post">
+    <form class="mt-8" action="./generate_pdf.php" method="post">
       <div class="grid grid-cols-1 gap-6">
         <div>
           <label for="fullname" class="block pb-2 text-sm font-medium text-gray-700">Full Name</label>
