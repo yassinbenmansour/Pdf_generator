@@ -15,7 +15,7 @@
     <center>
     <img src="logo.png" alt="logo">
     
-    <h1 style="margin-top: 100px;">Student information</h1>
+        <?php echo "    <h1 style="margin-top: 100px;">Student information</h1>" ?>
     </center>
 
     <h3 style="margin-top: 230px;">FullName : {{name}}</h3>
