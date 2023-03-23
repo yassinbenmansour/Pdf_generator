@@ -9,7 +9,7 @@
 <body class="bg-gray-100 px-4 py-8 sm:px-6 md:py-12 lg:px-8 xl:py-16">
 <div>
   <div class="max-w-md mx-auto">
-    <?php echo "Enter Your Information student" ?>
+    <?php echo "<h1>Enter Your Information student</h1>" ?>
       <form class="mt-8" action="./generate-pdf.php" method="post">
       <div class="grid grid-cols-1 gap-6">
         <div>
